@@ -1,38 +1,37 @@
-# Hi, I'm Basmala Amr 👋
+# HI CODERS 👋, I'm Basmala Amr
 
-### Computer Science Student
+### Front-End Developer | Computer Science Student
 
-I'm a Computer Science student passionate about software development and continuously improving my programming skills through learning and building projects.
+I'm a Computer Science student passionate about Front-End Development and building clean, responsive, and user-friendly websites.
 
-## 🌱 Currently Learning
+🌱 Currently learning:
+- JavaScript
+- Git & GitHub
+- Responsive Web Design
 
-* C#
-* ASP.NET Core
-* WPF & MVVM
-* SQL Server
-* Git & GitHub
+## 🛠️ Technologies
 
-## 💻 Languages & Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-* C++
-* C#
-* HTML
-* CSS
-* JavaScript
-* SQL
+## 📌 Featured Projects
 
-## 🎯 Goals
+### 🍽️ Sweet, Savory & Beverages
+Responsive recipe website built with HTML, CSS and JavaScript.
 
-* Build real-world projects
-* Improve my programming skills
-* Learn modern .NET development
-* Become a Full Stack .NET Developer
+🔗 Live Demo:
+https://basmala-amr-7.github.io/Sweet-Savory-Beverages/
 
-## 📂 Projects
+### 🌍 Share Your Travels
+Responsive travel landing page built with HTML and CSS.
 
-I'm currently working on personal and academic projects. More projects will be added as I continue learning.
+🔗 Live Demo:
+https://basmala-amr-7.github.io/Share-Your-Travels/
 
 ## 📫 Connect with Me
 
-* GitHub: https://github.com/Basmala-Amr-7
-* LinkedIn: https://www.linkedin.com/in/basmala-amr-76aa8a37a/
+- GitHub: https://github.com/Basmala-Amr-7
+- LinkedIn: https://www.linkedin.com/in/basmala-amr-76aa8a37a/
