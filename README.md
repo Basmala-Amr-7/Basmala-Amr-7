@@ -48,7 +48,7 @@ A responsive landing page built from a modern design challenge using **HTML5 and
 
 **Focus:** Responsive Design • Flexbox • Grid • Media Queries • Modern CSS
 
-🔗 [Live Demo](https://basmala-amr-7.github.io/clipboard-landing-page-master/)
+🔗 [Live Demo](https://basmala-amr-7.github.io/Clipboard-Landing-Page/)
 
 ---
 
