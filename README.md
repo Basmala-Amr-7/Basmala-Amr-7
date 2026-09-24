@@ -68,7 +68,7 @@ A responsive recipe website built with **HTML, CSS, and Vanilla JavaScript**.
 
 The website includes different food categories, interactive elements, login functionality, and theme styling.
 
-🔗 [GitHub Repository](https://basmala-amr-7.github.io/Sweet-Savory-Beverages/)
+🔗 [Live Demo](https://basmala-amr-7.github.io/Sweet-Savory-Beverages/)
 
 ---
 
