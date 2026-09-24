@@ -193,10 +193,6 @@ A responsive travel website focused on layout, imagery, sidebars and page struct
 
 # 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Basmala-Amr-7&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basmala-Amr-7&layout=compact&hide_border=true&theme=tokyonight" height="175" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Basmala-Amr-7&theme=tokyonight&hide_border=true" />
