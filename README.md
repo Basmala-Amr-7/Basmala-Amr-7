@@ -185,6 +185,36 @@ A responsive travel website focused on layout, imagery, sidebars and page struct
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">💱 Currency Converter</h3>
+
+<p align="center">
+A responsive currency converter built with HTML, CSS, and JavaScript, featuring currency selection and an animated background.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+<p align="center">
+<a href="https://basmala-amr-7.github.io/Currency-Converter/">
+<img src="https://img.shields.io/badge/%E2%96%B6%20LIVE%20DEMO-36BCF7?style=for-the-badge" />
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+</td>
+
+</tr>
 </table>
 
 ---
@@ -192,7 +222,6 @@ A responsive travel website focused on layout, imagery, sidebars and page struct
 <!-- ==================== GITHUB ==================== -->
 
 # 📊 GitHub Activity
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Basmala-Amr-7&theme=tokyonight&hide_border=true" />
@@ -205,13 +234,13 @@ A responsive travel website focused on layout, imagery, sidebars and page struct
 <p align="center">
 
 `HTML5`
-  →  
+&nbsp; → &nbsp;
 `CSS3`
-  →  
+&nbsp; → &nbsp;
 `Responsive Design`
-  →  
+&nbsp; → &nbsp;
 `JavaScript`
-  →  
+&nbsp; → &nbsp;
 `More to Come...`
 
 </p>
