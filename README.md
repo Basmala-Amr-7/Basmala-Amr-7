@@ -1,18 +1,18 @@
 <!-- ==================== HERO ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Basmala%20Amr&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Front-End%20Developer&descAlignY=62&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1565C0,100:FF8C00&height=220&section=header&text=Basmala%20Amr&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Front-End%20Developer&descAlignY=62&descSize=18" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Basmala+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%92%BB;Front-End+Developer+%F0%9F%8C%90;I+Love+Building+Web+Experiences;Learning+Something+New+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Basmala+%F0%9F%91%8B;Computer+Science+Student;Front-End+Developer;I+Love+Building+Web+Experiences;Learning+Something+New+Every+Day" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Basmala-Amr-7">
-    <img src="https://img.shields.io/github/followers/Basmala-Amr-7?style=for-the-badge&logo=github&label=Followers&color=181717" />
+    <img src="https://img.shields.io/github/followers/Basmala-Amr-7?style=for-the-badge&logo=github&label=Followers&color=1565C0" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Basmala-Amr-7&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Basmala-Amr-7&style=for-the-badge&color=FF8C00&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -29,19 +29,19 @@
 
 I'm a **Computer Science student** focused on **Front-End Development**.
 
-I enjoy transforming ideas and designs into **clean, responsive and interactive websites**.
+I enjoy transforming ideas and designs into **clean, responsive, and interactive websites**.
 
-I'm currently improving my skills by building projects, experimenting with new technologies, and learning through practice.
+I'm continuously improving my skills through practical projects, exploring new technologies, and learning by building.
 
 <br>
 
 **Currently focused on:**
 
-* 🌐 Responsive Web Design
-* 🎨 Modern CSS & UI
-* ⚡ JavaScript
-* 🔧 Git & GitHub
-* 🚀 Building Real Projects
+- Responsive Web Design
+- Modern CSS & UI
+- JavaScript
+- Git & GitHub
+- Building Real Projects
 
 </td>
 
@@ -53,13 +53,13 @@ I'm currently improving my skills by building projects, experimenting with new t
 
 ```text
 Code
-   ↓
+  ↓
 Build
-   ↓
+  ↓
 Learn
-   ↓
+  ↓
 Improve
-   ↓
+  ↓
 Repeat
 ```
 
@@ -69,21 +69,52 @@ Repeat
 
 ---
 
-## 💻 Tech Stack
+<!-- ==================== TECH STACK ==================== -->
+
+## 💻 Tech Stack & Technologies
+
+### Front-End Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Responsive%20Design-36BCF7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Flexbox-7C83FD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS%20Grid-36BCF7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Media%20Queries-7C83FD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
+
+### JavaScript & Web Concepts
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DOM-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BOM-1565C0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AJAX-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JSON-1565C0?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" />
+</p>
+
+### React Ecosystem
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Cart-1565C0?style=for-the-badge" />
+</p>
+
+### Tools & Version Control
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -95,44 +126,45 @@ Repeat
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<!-- PROJECT 1 -->
 
-<h3 align="center">📋 Clipboard Landing Page</h3>
+<td width="50%" valign="top" align="center">
 
-<p align="center">
-A responsive landing page recreated from a modern design challenge.
-</p>
+### 🧮 Gaussian | Gauss-Jordan
 
-<p align="center">
+An interactive mathematical solver for linear systems of equations, developed as a university assignment for the **Linear Algebra** course.
+
+**Technologies**
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 <p align="center">
-<a href="https://basmala-amr-7.github.io/Clipboard-Landing-Page/">
-<img src="https://img.shields.io/badge/%E2%96%B6%20LIVE%20DEMO-36BCF7?style=for-the-badge" />
-</a>
+  <a href="https://basmala-amr-7.github.io/Gaussian-Gauss-Jordan/">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-1565C0?style=for-the-badge" />
+  </a>
 </p>
 
 </td>
 
-<td width="50%" valign="top">
+<!-- PROJECT 2 -->
 
-<h3 align="center">👩‍💻 About Me</h3>
+<td width="50%" valign="top" align="center">
 
-<p align="center">
-A personal profile website introducing me, my interests and my Front-End journey.
-</p>
+### 📋 Clipboard Landing Page
 
-<p align="center">
+A responsive landing page recreated from a modern design challenge, focusing on layout, styling, and responsive design.
+
+**Technologies**
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
 
 <p align="center">
-<a href="https://basmala-amr-7.github.io/About-Me/">
-<img src="https://img.shields.io/badge/%E2%96%B6%20LIVE%20DEMO-7C83FD?style=for-the-badge" />
-</a>
+  <a href="https://basmala-amr-7.github.io/Clipboard-Landing-Page/">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-1565C0?style=for-the-badge" />
+  </a>
 </p>
 
 </td>
@@ -141,45 +173,45 @@ A personal profile website introducing me, my interests and my Front-End journey
 
 <tr>
 
-<td width="50%" valign="top">
+<!-- PROJECT 3 -->
 
-<h3 align="center">🍽️ Sweet, Savory & Beverages</h3>
+<td width="50%" valign="top" align="center">
 
-<p align="center">
-An interactive recipe website with food categories, login functionality and theme styling.
-</p>
+### 👩‍💻 About Me
 
-<p align="center">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+A personal profile website introducing my background, interests, and journey as a Front-End Developer.
+
+**Technologies**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</p>
 
 <p align="center">
-<a href="https://basmala-amr-7.github.io/Sweet-Savory-Beverages/">
-<img src="https://img.shields.io/badge/%E2%96%B6%20LIVE%20DEMO-E67E22?style=for-the-badge" />
-</a>
+  <a href="https://basmala-amr-7.github.io/About-Me/">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-1565C0?style=for-the-badge" />
+  </a>
 </p>
 
 </td>
 
-<td width="50%" valign="top">
+<!-- PROJECT 4 -->
 
-<h3 align="center">🌍 Share Your Travels</h3>
+<td width="50%" valign="top" align="center">
 
-<p align="center">
-A responsive travel website focused on layout, imagery, sidebars and page structure.
-</p>
+### 🍽️ Sweet, Savory & Beverages
 
-<p align="center">
+An interactive recipe website featuring food categories, login functionality, and theme styling.
+
+**Technologies**
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 <p align="center">
-<a href="https://basmala-amr-7.github.io/Share-Your-Travels/">
-<img src="https://img.shields.io/badge/%E2%96%B6%20LIVE%20DEMO-2E8B57?style=for-the-badge" />
-</a>
+  <a href="https://basmala-amr-7.github.io/Sweet-Savory-Beverages/">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-1565C0?style=for-the-badge" />
+  </a>
 </p>
 
 </td>
@@ -188,29 +220,46 @@ A responsive travel website focused on layout, imagery, sidebars and page struct
 
 <tr>
 
-<td width="50%" valign="top">
+<!-- PROJECT 5 -->
 
-<h3 align="center">💱 Currency Converter</h3>
+<td width="50%" valign="top" align="center">
 
-<p align="center">
-A responsive currency converter built with HTML, CSS, and JavaScript, featuring currency selection and an animated background.
-</p>
+### 🌍 Share Your Travels
 
-<p align="center">
+A responsive travel website focusing on page structure, image layouts, sidebars, and visual organization.
+
+**Technologies**
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</p>
 
 <p align="center">
-<a href="https://basmala-amr-7.github.io/Currency-Converter/">
-<img src="https://img.shields.io/badge/%E2%96%B6%20LIVE%20DEMO-36BCF7?style=for-the-badge" />
-</a>
+  <a href="https://basmala-amr-7.github.io/Share-Your-Travels/">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-1565C0?style=for-the-badge" />
+  </a>
 </p>
 
 </td>
 
-<td width="50%" valign="top">
+<!-- PROJECT 6 -->
+
+<td width="50%" valign="top" align="center">
+
+### 💱 Currency Converter
+
+A responsive currency converter featuring currency selection, JavaScript functionality, and an animated background.
+
+**Technologies**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+<p align="center">
+  <a href="https://basmala-amr-7.github.io/Currency-Converter/">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-1565C0?style=for-the-badge" />
+  </a>
+</p>
 
 </td>
 
@@ -219,7 +268,21 @@ A responsive currency converter built with HTML, CSS, and JavaScript, featuring 
 
 ---
 
-<!-- ==================== GITHUB ==================== -->
+<!-- ==================== AI-ASSISTED DEVELOPMENT ==================== -->
+
+## 🤖 AI-Assisted Development
+
+The Gaussian | Gauss-Jordan project was developed with assistance from:
+
+- **ChatGPT**
+- **Claude**
+- **Gemini**
+
+These AI tools were used to discuss mathematical logic, review the implementation of the elimination algorithms, and verify different solution cases.
+
+---
+
+<!-- ==================== GITHUB ACTIVITY ==================== -->
 
 # 📊 GitHub Activity
 
@@ -228,6 +291,8 @@ A responsive currency converter built with HTML, CSS, and JavaScript, featuring 
 </p>
 
 ---
+
+<!-- ==================== LEARNING PATH ==================== -->
 
 # 🌱 My Learning Path
 
@@ -241,6 +306,12 @@ A responsive currency converter built with HTML, CSS, and JavaScript, featuring 
 &nbsp; → &nbsp;
 `JavaScript`
 &nbsp; → &nbsp;
+`Bootstrap`
+&nbsp; → &nbsp;
+`Tailwind CSS`
+&nbsp; → &nbsp;
+`React`
+&nbsp; → &nbsp;
 `More to Come...`
 
 </p>
@@ -251,11 +322,14 @@ A responsive currency converter built with HTML, CSS, and JavaScript, featuring 
 
 ---
 
+<!-- ==================== GOALS ==================== -->
+
 # 🎯 What I'm Working Toward
 
-<table align="center">
+<table>
 <tr>
-<td align="center" width="33%">
+
+<td width="33%" align="center">
 
 ### 🌐
 
@@ -265,7 +339,7 @@ Building cleaner and more responsive interfaces.
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
 ### ⚡
 
@@ -275,7 +349,7 @@ Writing more organized and maintainable code.
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
 ### 🚀
 
@@ -284,21 +358,24 @@ Writing more organized and maintainable code.
 Learning through real-world practice.
 
 </td>
+
 </tr>
 </table>
 
 ---
+
+<!-- ==================== CONTACT ==================== -->
 
 # 🤝 Let's Connect
 
 <p align="center">
 
 <a href="https://github.com/Basmala-Amr-7">
-<img src="https://img.shields.io/badge/GitHub-Basmala--Amr--7-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Basmala--Amr--7-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/basmala-amr-76aa8a37a/">
-<img src="https://img.shields.io/badge/LinkedIn-Basmala_Amr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Basmala_Amr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </p>
@@ -306,7 +383,7 @@ Learning through real-world practice.
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile! ✨</b>
+  <b>Thanks for visiting my profile!</b>
 </p>
 
 <p align="center">
@@ -314,5 +391,5 @@ Learning through real-world practice.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=130&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:1565C0,100:000000&height=130&section=footer" width="100%" />
 </p>
