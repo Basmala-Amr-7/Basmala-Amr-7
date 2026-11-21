@@ -129,7 +129,7 @@ Repeat
 
 <!-- PROJECT 1 -->
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="center" bgcolor="#f6f8fa">
 
 ### 🧮 Gaussian | Gauss-Jordan
 
@@ -151,53 +151,7 @@ An interactive mathematical solver for linear systems of equations, developed as
 
 <!-- PROJECT 2 -->
 
-<td width="50%" valign="top" align="center">
-
-### 📋 Clipboard Landing Page
-
-A responsive landing page recreated from a modern design challenge, focusing on layout, styling, and responsive design.
-
-**Technologies**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-
-<p align="center">
-  <a href="https://basmala-amr-7.github.io/Clipboard-Landing-Page/">
-    <img src="https://img.shields.io/badge/LIVE%20DEMO-1565C0?style=for-the-badge" />
-  </a>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<!-- PROJECT 3 -->
-
-<td width="50%" valign="top" align="center">
-
-### 👩‍💻 About Me
-
-A personal profile website introducing my background, interests, and journey as a Front-End Developer.
-
-**Technologies**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-
-<p align="center">
-  <a href="https://basmala-amr-7.github.io/About-Me/">
-    <img src="https://img.shields.io/badge/LIVE%20DEMO-1565C0?style=for-the-badge" />
-  </a>
-</p>
-
-</td>
-
-<!-- PROJECT 4 -->
-
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="center" bgcolor="#f6f8fa">
 
 ### 🍽️ Sweet, Savory & Beverages
 
@@ -221,9 +175,9 @@ An interactive recipe website featuring food categories, login functionality, an
 
 <tr>
 
-<!-- PROJECT 5 -->
+<!-- PROJECT 3 -->
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="center" bgcolor="#f6f8fa">
 
 ### 🌍 Share Your Travels
 
@@ -242,9 +196,34 @@ A responsive travel website focusing on page structure, image layouts, sidebars,
 
 </td>
 
-<!-- PROJECT 6 -->
+<!-- PROJECT 4 -->
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="center" bgcolor="#f6f8fa">
+
+### 👩‍💻 About Me
+
+A personal profile website introducing my background, interests, and journey as a Front-End Developer.
+
+**Technologies**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+
+<p align="center">
+  <a href="https://basmala-amr-7.github.io/About-Me/">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-1565C0?style=for-the-badge" />
+  </a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<!-- PROJECT 5 -->
+
+<td width="50%" valign="top" align="center" bgcolor="#f6f8fa">
 
 ### 💱 Currency Converter
 
@@ -264,13 +243,34 @@ A responsive currency converter featuring currency selection, JavaScript functio
 
 </td>
 
+<!-- PROJECT 6 -->
+
+<td width="50%" valign="top" align="center" bgcolor="#f6f8fa">
+
+### 📋 Clipboard Landing Page
+
+A responsive landing page recreated from a modern design challenge, focusing on layout, styling, and responsive design.
+
+**Technologies**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+
+<p align="center">
+  <a href="https://basmala-amr-7.github.io/Clipboard-Landing-Page/">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-1565C0?style=for-the-badge" />
+  </a>
+</p>
+
+</td>
+
 </tr>
 
 <tr>
 
 <!-- PROJECT 7 -->
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="center" bgcolor="#f6f8fa">
 
 ### 🏔️ Task Session 8 – Landing Page
 
