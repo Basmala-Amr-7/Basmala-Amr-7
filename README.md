@@ -1,3 +1,4 @@
+
 <!-- ==================== HERO ==================== -->
 
 <p align="center">
@@ -257,6 +258,31 @@ A responsive currency converter featuring currency selection, JavaScript functio
 
 <p align="center">
   <a href="https://basmala-amr-7.github.io/Currency-Converter/">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-1565C0?style=for-the-badge" />
+  </a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<!-- PROJECT 7 -->
+
+<td width="50%" valign="top" align="center">
+
+### 🏔️ Task Session 8 – Landing Page
+
+A simple landing page created during my Front-End Development training at **Creativa**, featuring a navigation bar, hero section with a background image, call-to-action links, and an image gallery.
+
+**Technologies**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+
+<p align="center">
+  <a href="https://basmala-amr-7.github.io/task_session_8/">
     <img src="https://img.shields.io/badge/LIVE%20DEMO-1565C0?style=for-the-badge" />
   </a>
 </p>
