@@ -1,68 +1,82 @@
 
-<!-- ==================== HERO ==================== -->
+<!-- ===================== Hero ===================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1565C0,100:FF8C00&height=220&section=header&text=Basmala%20Amr&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Front-End%20Developer&descAlignY=62&descSize=18" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Basmala+%F0%9F%91%8B;Computer+Science+Student;Front-End+Developer;I+Love+Building+Web+Experiences;Learning+Something+New+Every+Day" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B20,50:17134A,100:0066CC&height=220&section=header&text=Basmala%20Amr&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Front-End%20Developer&descSize=16&descAlignY=60&animation=twinkling"/>
 
-<p align="center">
-  <a href="https://github.com/Basmala-Amr-7">
-    <img src="https://img.shields.io/github/followers/Basmala-Amr-7?style=for-the-badge&logo=github&label=Followers&color=1565C0" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Basmala-Amr-7&style=for-the-badge&color=FF8C00&label=PROFILE+VIEWS" />
-</p>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=45&lines=Building+Web+Experiences;Exploring+Modern+Technologies;Learning+and+Growing+Every+Day;Future+Full-Stack+Developer"/>
+
+<br/>
+
+<a href="https://github.com/Basmala-Amr-7">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/basmala-amr-76aa8a37a/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Basmala-Amr-7&style=flat-square&color=00BFFF&label=Profile+Views"/>
+
+</div>
 
 ---
 
-<!-- ==================== ABOUT ==================== -->
+<!-- ===================== About Me ===================== -->
 
-## ✦ About Me
+<div align="center">
 
-<table>
+## About Me
+
+*Getting to know the developer behind the code.*
+
+</div>
+
+<table align="center" width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="middle">
 
-### Hey there! I'm Basmala 👩‍💻
+### Hello, I'm Basmala!
 
-I'm a **Computer Science student** focused on **Front-End Development**.
+I'm a **Computer Science student at Mansoura University**, passionate about Front-End Development and building interactive web experiences.
 
-I enjoy transforming ideas and designs into **clean, responsive, and interactive websites**.
+I enjoy transforming ideas and designs into clean, responsive, and user-friendly interfaces.
 
-I'm continuously improving my skills through practical projects, exploring new technologies, and learning by building.
+I'm continuously improving my technical skills through practical projects, university coursework, and hands-on learning.
 
-<br>
+**A little more about me:**
 
-**Currently focused on:**
-
-- Responsive Web Design
-- Modern CSS & UI
-- JavaScript
-- Git & GitHub
-- Building Real Projects
+- University: Mansoura University
+- Field: Computer Science
+- Current Focus: Front-End Development
+- Future Goal: Full-Stack JavaScript Development
+- English Level: B2
 
 </td>
 
-<td width="45%" align="center">
+<td width="42%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&perline=3" />
-
-<br><br>
-
-```text
-Code
-  ↓
-Build
-  ↓
-Learn
-  ↓
-Improve
-  ↓
-Repeat
-```
+<pre align="center">
+┌─────────────────────────────┐
+│                             │
+│        Basmala.exe          │
+│                             │
+├─────────────────────────────┤
+│                             │
+│  Status   : Learning        │
+│  Role     : CS Student      │
+│  Focus    : Front-End       │
+│  Goal     : Full-Stack      │
+│                             │
+│  Mode     : Building        │
+│  Mindset  : Growing         │
+│                             │
+└─────────────────────────────┘
+</pre>
 
 </td>
 </tr>
@@ -70,376 +84,456 @@ Repeat
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
+<!-- ===================== Tech Stack ===================== -->
 
-## 💻 Tech Stack & Technologies
+<div align="center">
+
+## Technologies & Tools
+
+*The technologies I'm learning and working with.*
+
+<br/>
 
 ### Front-End Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react&theme=dark"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+<br/><br/>
 
-### JavaScript & Web Concepts
+### Web Development Concepts
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DOM-FF8C00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BOM-1565C0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AJAX-FF8C00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JSON-1565C0?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" />
-</p>
+<img src="https://img.shields.io/badge/DOM-Manipulation-17134A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BOM-Browser%20Objects-17134A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AJAX-Asynchronous-17134A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-Integration-17134A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JSON-Data%20Format-17134A?style=for-the-badge"/>
 
-### React Ecosystem
+<br/><br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Cart-1565C0?style=for-the-badge" />
-</p>
+### Development Tools
 
-### Tools & Version Control
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+</div>
 
 ---
 
-<!-- ==================== PROJECTS ==================== -->
+<!-- ===================== Projects ===================== -->
 
-# 🚀 Featured Projects
+<div align="center">
 
-<table>
+## Featured Projects
+
+*A collection of projects built through learning and practice.*
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=30&lines=Learning+through+building;Turning+ideas+into+code;Every+project+is+a+new+challenge"/>
+
+</div>
+
+<table align="center" width="100%">
 <tr>
+<td width="50%" valign="top">
 
-<!-- PROJECT 1 -->
+<div align="center">
 
-<td width="50%" valign="top" align="center" bgcolor="#f6f8fa">
+<img src="https://img.shields.io/badge/Project%2001-Math%20%26%20Logic-17134A?style=for-the-badge"/>
 
-### 🧮 Gaussian | Gauss-Jordan
+### Gaussian | Gauss-Jordan
 
-An interactive mathematical solver for linear systems of equations, developed as a university assignment for the **Linear Algebra** course.
+</div>
+
+An interactive mathematical solver for linear systems of equations, developed as a university assignment for the Linear Algebra course.
 
 **Technologies**
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-
 <p align="center">
-  <a href="https://basmala-amr-7.github.io/Gaussian-Gauss-Jordan/">
-    <img src="https://img.shields.io/badge/LIVE%20DEMO-1565C0?style=for-the-badge" />
-  </a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
+
+<div align="center">
+
+<a href="https://basmala-amr-7.github.io/Gaussian-Gauss-Jordan/">
+<img src="https://img.shields.io/badge/Live%20Demo-0066CC?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
 
 </td>
 
-<!-- PROJECT 2 -->
+<td width="50%" valign="top">
 
-<td width="50%" valign="top" align="center" bgcolor="#f6f8fa">
+<div align="center">
 
-### 🍽️ Sweet, Savory & Beverages
+<img src="https://img.shields.io/badge/Project%2002-Food%20%26%20Recipes-17134A?style=for-the-badge"/>
+
+### Sweet, Savory & Beverages
+
+</div>
 
 An interactive recipe website featuring food categories, login functionality, and theme styling.
 
 **Technologies**
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-
 <p align="center">
-  <a href="https://basmala-amr-7.github.io/Sweet-Savory-Beverages/">
-    <img src="https://img.shields.io/badge/LIVE%20DEMO-1565C0?style=for-the-badge" />
-  </a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
-</td>
+<div align="center">
 
+<a href="https://basmala-amr-7.github.io/Sweet-Savory-Beverages/">
+<img src="https://img.shields.io/badge/Live%20Demo-0066CC?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
 </tr>
 
 <tr>
+<td width="50%" valign="top">
 
-<!-- PROJECT 3 -->
+<div align="center">
 
-<td width="50%" valign="top" align="center" bgcolor="#f6f8fa">
+<img src="https://img.shields.io/badge/Project%2003-Travel%20Website-17134A?style=for-the-badge"/>
 
-### 🌍 Share Your Travels
+### Share Your Travels
 
-A responsive travel website focusing on page structure, image layouts, sidebars, and visual organization.
+</div>
+
+A travel website focusing on page structure, image layouts, sidebars, and visual organization.
 
 **Technologies**
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-
 <p align="center">
-  <a href="https://basmala-amr-7.github.io/Share-Your-Travels/">
-    <img src="https://img.shields.io/badge/LIVE%20DEMO-1565C0?style=for-the-badge" />
-  </a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
+
+<div align="center">
+
+<a href="https://basmala-amr-7.github.io/Share-Your-Travels/">
+<img src="https://img.shields.io/badge/Live%20Demo-0066CC?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
 
 </td>
 
-<!-- PROJECT 4 -->
+<td width="50%" valign="top">
 
-<td width="50%" valign="top" align="center" bgcolor="#f6f8fa">
+<div align="center">
 
-### 👩‍💻 About Me
+<img src="https://img.shields.io/badge/Project%2004-Personal%20Website-17134A?style=for-the-badge"/>
+
+### About Me
+
+</div>
 
 A personal profile website introducing my background, interests, and journey as a Front-End Developer.
 
 **Technologies**
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-
 <p align="center">
-  <a href="https://basmala-amr-7.github.io/About-Me/">
-    <img src="https://img.shields.io/badge/LIVE%20DEMO-1565C0?style=for-the-badge" />
-  </a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
-</td>
+<div align="center">
 
+<a href="https://basmala-amr-7.github.io/About-Me/">
+<img src="https://img.shields.io/badge/Live%20Demo-0066CC?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
 </tr>
 
 <tr>
+<td width="50%" valign="top">
 
-<!-- PROJECT 5 -->
+<div align="center">
 
-<td width="50%" valign="top" align="center" bgcolor="#f6f8fa">
+<img src="https://img.shields.io/badge/Project%2005-Utility%20Tool-17134A?style=for-the-badge"/>
 
-### 💱 Currency Converter
+### Currency Converter
 
-A responsive currency converter featuring currency selection, JavaScript functionality, and an animated background.
+</div>
+
+A currency converter featuring currency selection, JavaScript functionality, and an animated background.
 
 **Technologies**
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-
 <p align="center">
-  <a href="https://basmala-amr-7.github.io/Currency-Converter/">
-    <img src="https://img.shields.io/badge/LIVE%20DEMO-1565C0?style=for-the-badge" />
-  </a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
+
+<div align="center">
+
+<a href="https://basmala-amr-7.github.io/Currency-Converter/">
+<img src="https://img.shields.io/badge/Live%20Demo-0066CC?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
 
 </td>
 
-<!-- PROJECT 6 -->
+<td width="50%" valign="top">
 
-<td width="50%" valign="top" align="center" bgcolor="#f6f8fa">
+<div align="center">
 
-### 📋 Clipboard Landing Page
+<img src="https://img.shields.io/badge/Project%2006-Landing%20Page-17134A?style=for-the-badge"/>
+
+### Clipboard Landing Page
+
+</div>
 
 A responsive landing page recreated from a modern design challenge, focusing on layout, styling, and responsive design.
 
 **Technologies**
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-
 <p align="center">
-  <a href="https://basmala-amr-7.github.io/Clipboard-Landing-Page/">
-    <img src="https://img.shields.io/badge/LIVE%20DEMO-1565C0?style=for-the-badge" />
-  </a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
-</td>
+<div align="center">
 
+<a href="https://basmala-amr-7.github.io/Clipboard-Landing-Page/">
+<img src="https://img.shields.io/badge/Live%20Demo-0066CC?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
 </tr>
 
-<!-- PROJECT 7 & PROJECT 8 IN THE SAME ROW -->
-
 <tr>
+<td width="50%" valign="top">
 
-<!-- PROJECT 7 -->
+<div align="center">
 
-<td width="50%" valign="top" align="center" bgcolor="#f6f8fa">
+<img src="https://img.shields.io/badge/Project%2007-Creativa%20%7C%20Session%2008-17134A?style=for-the-badge"/>
 
-### 🏔️ Task Session 8 – Landing Page
+### Task Session 8 – Landing Page
 
-A simple landing page created during my Front-End Development training at **Creativa**, featuring a navigation bar, hero section with a background image, call-to-action links, and an image gallery.
+</div>
+
+A landing page created during my **Front-End Development Course at Creativa**.
+
+Features a navigation bar, hero section with a background image, call-to-action links, and an image gallery.
 
 **Technologies**
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-
 <p align="center">
-  <a href="https://basmala-amr-7.github.io/task_session_8/">
-    <img src="https://img.shields.io/badge/LIVE%20DEMO-1565C0?style=for-the-badge" />
-  </a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
+
+<div align="center">
+
+<a href="https://basmala-amr-7.github.io/task_session_8/">
+<img src="https://img.shields.io/badge/Live%20Demo-0066CC?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
 
 </td>
 
-<!-- PROJECT 8 -->
+<td width="50%" valign="top">
 
-<td width="50%" valign="top" align="center" bgcolor="#f6f8fa">
+<div align="center">
 
-### 🔐 Task Session 9 – Facebook Login Page
+<img src="https://img.shields.io/badge/Project%2008-Creativa%20%7C%20Session%2009-17134A?style=for-the-badge"/>
 
-A Facebook Login Page UI recreation developed as **Task Session 9** during my **Front-End Development Course at Creativa**, practicing HTML forms, input styling, links, and CSS layout techniques.
+### Task Session 9 – Facebook Login Page
+
+</div>
+
+A Facebook Login Page UI recreation developed as **Task Session 9** during my **Front-End Development Course at Creativa**.
+
+Practicing HTML forms, input styling, links, and CSS layout techniques.
 
 **Technologies**
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-
 <p align="center">
-  <a href="https://basmala-amr-7.github.io/task_session_9/">
-    <img src="https://img.shields.io/badge/LIVE%20DEMO-1565C0?style=for-the-badge" />
-  </a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
-</td>
+<div align="center">
 
-</tr>
+<a href="https://basmala-amr-7.github.io/task_session_9/">
+<img src="https://img.shields.io/badge/Live%20Demo-0066CC?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-</table>
-
----
-
-<!-- ==================== AI-ASSISTED DEVELOPMENT ==================== -->
-
-## 🤖 AI-Assisted Development
-
-The Gaussian | Gauss-Jordan project was developed with assistance from:
-
-- **ChatGPT**
-- **Claude**
-- **Gemini**
-
-These AI tools were used to discuss mathematical logic, review the implementation of the elimination algorithms, and verify different solution cases.
-
----
-
-<!-- ==================== GITHUB ACTIVITY ==================== -->
-
-# 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Basmala-Amr-7&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<!-- ==================== LEARNING PATH ==================== -->
-
-# 🌱 My Learning Path
-
-<p align="center">
-
-`HTML5`
-&nbsp; → &nbsp;
-`CSS3`
-&nbsp; → &nbsp;
-`Responsive Design`
-&nbsp; → &nbsp;
-`JavaScript`
-&nbsp; → &nbsp;
-`Bootstrap`
-&nbsp; → &nbsp;
-`Tailwind CSS`
-&nbsp; → &nbsp;
-`React`
-&nbsp; → &nbsp;
-`More to Come...`
-
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Learning+by+Building;Turning+Ideas+into+Projects;Growing+One+Project+at+a+Time" />
-</p>
-
----
-
-<!-- ==================== GOALS ==================== -->
-
-# 🎯 What I'm Working Toward
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### 🌐
-
-**Better Websites**
-
-Building cleaner and more responsive interfaces.
+</div>
 
 </td>
-
-<td width="33%" align="center">
-
-### ⚡
-
-**Better Code**
-
-Writing more organized and maintainable code.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🚀
-
-**More Projects**
-
-Learning through real-world practice.
-
-</td>
-
 </tr>
 </table>
 
 ---
 
-<!-- ==================== CONTACT ==================== -->
+<!-- ===================== GitHub Statistics ===================== -->
 
-# 🤝 Let's Connect
+<div align="center">
 
-<p align="center">
+## GitHub Statistics
+
+*An overview of my activity and most-used languages.*
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Basmala-Amr-7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=9B59B6&text_color=FFFFFF&rank_icon=github" width="100%"/>
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basmala-Amr-7&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Basmala-Amr-7&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=9B59B6&currStreakLabel=00D9FF" width="75%"/>
+
+</div>
+
+---
+
+<!-- ===================== Learning Roadmap ===================== -->
+
+<div align="center">
+
+## Learning Roadmap
+
+*My journey toward becoming a Full-Stack JavaScript Developer.*
+
+<br/>
+
+<table align="center" width="100%">
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark"/>
+
+### 01. Web Foundations
+
+HTML5
+
+CSS3
+
+Responsive Design
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<img src="https://skillicons.dev/icons?i=js,bootstrap,tailwind&theme=dark"/>
+
+### 02. JavaScript & Styling
+
+JavaScript
+
+Bootstrap
+
+Tailwind CSS
+
+DOM & APIs
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<img src="https://skillicons.dev/icons?i=react&theme=dark"/>
+
+### 03. React Development
+
+React
+
+React Router
+
+React Hooks
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Future%20Goal-Full--Stack%20JavaScript-17134A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
+
+<p>Node.js · Express.js · MongoDB</p>
+
+</div>
+
+---
+
+<!-- ===================== AI Tools ===================== -->
+
+<div align="center">
+
+## AI-Assisted Development
+
+I use AI tools as learning and development assistants to explore ideas, understand technical concepts, review code, and improve problem-solving.
+
+<br/>
+
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+
+</div>
+
+---
+
+<!-- ===================== Contact ===================== -->
+
+<div align="center">
+
+## Let's Connect
+
+*Always open to learning, sharing knowledge, and connecting with other developers.*
+
+<br/>
 
 <a href="https://github.com/Basmala-Amr-7">
-  <img src="https://img.shields.io/badge/GitHub-Basmala--Amr--7-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/basmala-amr-76aa8a37a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Basmala_Amr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+<br/><br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=35&lines=Thanks+for+visiting+my+profile!;Keep+Learning.+Keep+Building.;See+you+in+the+next+project!"/>
 
-<p align="center">
-  <b>Thanks for visiting my profile!</b>
-</p>
+<br/>
 
-<p align="center">
-  <i>Build something. Learn something. Keep going.</i>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066CC,50:17134A,100:080B20&height=130&section=footer&animation=twinkling"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:1565C0,100:000000&height=130&section=footer" width="100%" />
-</p>
+</div>
