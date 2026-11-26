@@ -266,6 +266,8 @@ A responsive landing page recreated from a modern design challenge, focusing on 
 
 </tr>
 
+<!-- PROJECT 7 & PROJECT 8 IN THE SAME ROW -->
+
 <tr>
 
 <!-- PROJECT 7 -->
@@ -289,7 +291,29 @@ A simple landing page created during my Front-End Development training at **Crea
 
 </td>
 
+<!-- PROJECT 8 -->
+
+<td width="50%" valign="top" align="center" bgcolor="#f6f8fa">
+
+### 🔐 Task Session 9 – Facebook Login Page
+
+A Facebook Login Page UI recreation developed as **Task Session 9** during my **Front-End Development Course at Creativa**, practicing HTML forms, input styling, links, and CSS layout techniques.
+
+**Technologies**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+
+<p align="center">
+  <a href="https://basmala-amr-7.github.io/task_session_9/">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-1565C0?style=for-the-badge" />
+  </a>
+</p>
+
+</td>
+
 </tr>
+
 </table>
 
 ---
